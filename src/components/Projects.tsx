@@ -22,7 +22,7 @@ const Projects = () => {
           <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
             <CardHeader>
               <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                <img src="/src/assets/tictactoe.png" alt="Tic Tac Toe" className="object-cover h-full w-full" />
+                <img src="/tictactoe.png" alt="Tic Tac Toe" className="object-cover h-full w-full" />
               </div>
               <CardTitle className="text-cyber-primary">Tic Tac Toe Game</CardTitle>
               <CardDescription>
@@ -51,7 +51,7 @@ const Projects = () => {
           <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
             <CardHeader>
               <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                <img src="/src/assets/kudaclone.png" alt="Chrome Extension" className="object-cover h-full w-full" />
+                <img src="/kudaclone.png" alt="Kuda Clone" className="object-cover h-full w-full" />
               </div>
               <CardTitle className="text-cyber-primary">Kuda Clone</CardTitle>
               <CardDescription>
@@ -81,7 +81,7 @@ const Projects = () => {
           <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
             <CardHeader>
               <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                <img src="/src/assets/jayfoodz.png" alt="Jayniy Food Website" className="object-cover h-full w-full" />
+                <img src="/jayfoodz.png" alt="Jayniy Food Website" className="object-cover h-full w-full" />
               </div>
               <CardTitle className="text-cyber-primary">Jayniy Food Website</CardTitle>
               <CardDescription>
@@ -111,7 +111,7 @@ const Projects = () => {
           {/* <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
             <CardHeader>
               <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                <img src="/src/assets/student.png" alt="Student Engagement Platform" className="object-cover h-full w-full" />
+                <img src="/student.png" alt="Student Engagement Platform" className="object-cover h-full w-full" />
               </div>
               <CardTitle className="text-cyber-primary">Student Engagement Platform</CardTitle>
               <CardDescription>
@@ -141,7 +141,7 @@ const Projects = () => {
           <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
             <CardHeader>
               <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                <img src="/src/assets/blade.png" alt="Barbing Website" className="object-cover h-full w-full" />
+                <img src="/blade.png" alt="Barbing Website" className="object-cover h-full w-full" />
               </div>
               <CardTitle className="text-cyber-primary">Barbing Website</CardTitle>
               <CardDescription>
@@ -171,7 +171,7 @@ const Projects = () => {
             {/* <Card className="bg-tech-dark border-cyber-primary/20 hover:border-cyber-primary/50 transition-all duration-300 group w-[320px]">
               <CardHeader>
                 <div className="flex items-center justify-center h-32 bg-secondary/50 rounded-lg mb-4 overflow-hidden group-hover:bg-cyber-primary/10 transition-colors">
-                  <img src="/src/assets/blade.png" alt="Project Six" className="object-cover h-full w-full" />
+                  <img src="/blade.png" alt="Project Six" className="object-cover h-full w-full" />
                 </div>
                 <CardTitle className="text-cyber-primary">Project Six</CardTitle>
                 <CardDescription>
